@@ -1,0 +1,6 @@
+baseurl = "http://edward.gomez.me.uk/"
+languageCode = "en-gb"
+title = "Edward Gomez"
+[params]
+  themeColor = "theme-base-09"
+  description = "Astronomer, Software Developer, Science Communicator"
