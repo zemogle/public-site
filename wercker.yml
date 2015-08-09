@@ -2,7 +2,14 @@ box: debian
 build:
   steps:
     - arjen/hugo-build:
-        version: 1.4.0
+        version: 0.14
         theme: hyde
         flags: --buildDrafts=true
+
+deploy:
+  steps:
+    - lukevivier/gh-pages@0.2.1:
+        token: $GIT_TOKEN
+        domain: zemogle.uk
+        basedir: public
       
