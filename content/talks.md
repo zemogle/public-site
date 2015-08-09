@@ -2,7 +2,9 @@
 date = "2015-08-08T16:27:42+01:00"
 draft = true
 title = "Talks"
-
+[menu.main]
+name = "Talks"
+weight = 4
 +++
 I regularly give public and scientific talks. Here are a few of my favourites and others which I've made (about science) for fun.
 

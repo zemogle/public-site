@@ -1,0 +1,17 @@
+language: go
+go:
+- 1.4
+install:
+- go get github.com/spf13/hugo
+script: hugo -t hyde
+deploy:
+  provider: s3
+  access_key_id: $AWS_ACCESS_KEY
+  secret_access_key: $AWS_SECRET_KEY
+  bucket: edward.gomez.me.uk
+  region: eu-west-1
+  endpoint: edward.gomez.me.uk.s3-website-eu-west-1.amazonaws.com
+  local-dir: public
+  skip_cleanup: true
+  on:
+    repo: zemogle/public-site
