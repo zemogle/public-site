@@ -1,6 +1,6 @@
 +++
 date = "2015-08-07T23:29:14+01:00"
-draft = true
+draft = false
 title = "Curriculum Vitae"
 [menu.main]
 name = "Professional CV"
