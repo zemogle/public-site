@@ -5,7 +5,6 @@
 
     <div class="content container">
 {{ range .Data.Pages }}
-  {{ if in .Params.tags "_home" }}
     <h1>{{ .Title }}</h1>
 
     {{ .Content }}
