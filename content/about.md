@@ -1,10 +1,10 @@
 +++
-date = "2015-08-06T21:17:17+01:00"
-draft = false
-title = "about"
+date = "2015-08-09T14:38:56+01:00"
+draft = true
+title = "About Me"
 tags = "_home"
+
 +++
-## About me
 
 Since childhood I have been fascinated by astronomy. When I realised that I could use maths and computers to do fun things with astronomy, I knew I was hooked for life. I never grew out of it and now I am lucky enough to be a professional astrophysicist. As part of my role with LCOGT I try to find novel ways to engage the public in astronomy. This has taken the form of creating citizen science projects like [Agent Exoplanet][1], interactive educational web apps like [Star in a Box][2], and online community events like [Show Me Stars][3].
 

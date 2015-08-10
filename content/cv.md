@@ -5,7 +5,9 @@ title = "Curriculum Vitae"
 [menu.main]
 name = "Professional CV"
 weight = 4
+
 +++
+
 ## Current Rôles
 
 Education Director   
