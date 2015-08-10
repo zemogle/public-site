@@ -5,10 +5,12 @@
 
     <div class="content container">
 {{ range .Data.Pages }}
+{{ if in .Params.tags "_home" }}
     <h1>{{ .Title }}</h1>
-
+    <div></div>
     {{ .Content }}
 {{ end }}
+{{ end}}
     </div>
   </body>
 </html>
