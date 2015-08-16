@@ -1,0 +1,15 @@
+box: debian
+build:
+  steps:
+    - arjen/hugo-build:
+        version: 0.12
+        theme: hyde
+        flags: --disableSitemap=true
+deploy:
+  steps:
+    # Execute the s3sync deploy step, a step provided by wercker
+    - s3sync:
+        key_id: $AWS_KEY_E
+        key_secret: $AWS_KEY_SECRET_E
+        bucket_url: $AWS_BUCKET_E
+        source_dir: public/
