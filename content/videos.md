@@ -1,9 +1,9 @@
 +++
 date = "2015-08-08T16:27:42+01:00"
 draft = false
-title = "Talks"
+title = "Videos"
 [menu.main]
-name = "Talks"
+name = "Videos"
 weight = 4
 +++
 
@@ -19,7 +19,7 @@ St Louis Science Centre invited me to give to talk on the Science of Doctor Who 
 
 ## Python and Robotic Telescopes
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XT2t8diakPo" frameborder="0" allowfullscreen></iframe>  
-A conference talk in the Lorentz Centre workshop, Python in Astronomy, in April 2015.
+A conference talk in the Lorentz Centre workshop about how we use Python at LCOGT, Python in Astronomy, in April 2015.
 
 ## Bright Club
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EKFubHZu7v4" frameborder="0" allowfullscreen></iframe>  
