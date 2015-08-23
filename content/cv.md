@@ -8,18 +8,20 @@ weight = 4
 
 +++
 
+[@zemogle](http://twitter.com/zemogle) on Twitter
+
 ## Current Rôles
 
-Education Director   
-[Las Cumbres Observatory Global Telescope Network, Inc.](http://lcogt.net)    
-Honourary Lecturer   
-[School of Physics & Astronomy, Cardiff University](http://www.astro.cardiff.ac.uk)   
+Education Director
+[Las Cumbres Observatory Global Telescope Network, Inc.](http://lcogt.net)
+Honourary Lecturer
+[School of Physics & Astronomy, Cardiff University](http://www.astro.cardiff.ac.uk)
 
 
 ## Education
 ### PhD - Astrophysics
-*Instability in the winds of hot stars: Theory and Simulation*   
-1999-2004   
+*Instability in the winds of hot stars: Theory and Simulation*
+1999-2004
 Cardiff University  
 
 ### Master of Astrophysics
@@ -39,17 +41,19 @@ The LCOGT observing portal for education and outreach.
 
 ### [Agent Exoplanet](http://lcogt.net/agentexoplanet)
 *Lead developer and maintainer*  
-An online LCOGT citizen science project for investigating the properties of transiting extra-solar planets.   
+An online LCOGT citizen science project for investigating the properties of transiting extra-solar planets.
 
 ### [Observations](http://lcogt.net/observations )
 *Lead developer and maintainer*  
 LCOGT open access observations archive.
 
+More of my projects can be found on my [GitHub profile](https://github.com/zemogle/).
+
 ## Selected Community Rôles
 - Chair of the International Astronomical Union [Office for Astronomy Development](http://astro4dev.org) Task Force for children and schools.
 - Co-founder and managing editor for [astroEDU](http://iau.org/astroedu), an open access, peer-review platform for reviewing and sharing astronomy education activities, endorsed by [International Astronomical Union](http://iau.org).
-- Education and Science Editor for Universe Awareness: [Space Scoop](http://unawe.org/kids), astronomy press-releases rewritten for children. 
-- Supporting and initiating partnerships between schools and university researchers for collaboration on the LCOGT pilot minor planet program using LCOGT network telescopes. 
+- Education and Science Editor for Universe Awareness: [Space Scoop](http://unawe.org/kids), astronomy press-releases rewritten for children.
+- Supporting and initiating partnerships between schools and university researchers for collaboration on the LCOGT pilot minor planet program using LCOGT network telescopes.
 - Chair of National Astronomy Meeting (UK) education and outreach session organising committee 2014-15.
 
 ## Invited Talks
@@ -63,25 +67,29 @@ LCOGT open access observations archive.
 - 2012 May - Leiden Observatory Science Communication seminar  - “Creating an open network of robotic telescopes”
 
 ## Contributed Talks
+- 2015 Jun National Astronomy Meeting - "Universe in the Classroom"
 - 2014 Jun National Astronomy Meeting - “astroEDU: open access and peer-review for astronomy education”
-- 2012 Aug IAU GA - Special Session: Communicating Astronomy to the Public 
+- 2012 Aug IAU GA - Special Session: Communicating Astronomy to the Public
 - 2012 Aug IAU GA - Office of Astronomy for Development 
-- 2011 April .Astronomy 2 - “Creating an open network of robotic telescopes” 
-- 2009 Sept .Astronomy 1 - “Social media: An astronomers field guide” 
+- 2011 April .Astronomy 3 - “Creating an open network of robotic telescopes” 
+- 2009 Sept .Astronomy 1 - “Social media: An astronomers field guide”
 - 2009 Jan International Year of Astronomy Cultural Heritage conference
 
 ## Workshops Organized
+- 2015 Aug [STFC Summer School](http://sites.cardiff.ac.uk/astronomy-summer-school/) - Python in Astronomy
+- 2015 June National Astronomy Meeting education session chair
+- 2015 June National Astronomy Meeting - Hack Day
 - 2015 Mar Reykjavik teacher workshop
 - 2014 June National Astronomy Meeting education session chair
 - 2013 April AstroPython workshop, Cardiff University
 - 2012 Aug Galileo Teacher Training, Beijing 
 - 2009 Dec .Astronomy - Astronomy Podcasting 
-- 2007 April EU-Hands on Universe teacher international training conference 
+- 2007 April EU-Hands on Universe teacher international training conference
 
 ## Significant Grants
 - 2013 - 2016 Fascination Astronomy (Co-I) - Qatar Foundation
-- 2014 - 2018 Universe in the Classroom (Co-founder) - National Science Academy, Welsh Government
-- 2014 - 2017 NEO follow-up (Co-I) - NASA 
+- 2014 - 2018 [Universe in the Classroom](http://universe.wales) (Co-founder) - National Science Academy, Welsh Government
+- 2014 - 2017 NEO follow-up (Co-I) - NASA, see [NEO exchange website](http://lcogt.net/neoexchange/) created by me for this project
 
 ## Coding Languages
 
