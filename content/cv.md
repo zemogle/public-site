@@ -49,6 +49,11 @@ LCOGT open access observations archive.
 
 More of my projects can be found on my [GitHub profile](https://github.com/zemogle/).
 
+## Awards and Nominations
+- **Scientix Award** for Best Resources in Science, Technology, Mathematics and Engineering - [Star in a Box](http://lcogt.net/siab/). This was a joint effort by many people, particularly myself, Stuart Lowe and Megan Davies. It was also awarded to [astroEDU](http://iau.org/astroedu) for improving the activity through peer-review.
+- **Most Uplifting Staff Member** Nomination in the Cardiff University Enriching Student Life awards, by students in the School of Physics and Astronomy.
+
+
 ## Selected Community Rôles
 - Chair of the International Astronomical Union [Office for Astronomy Development](http://astro4dev.org) Task Force for children and schools.
 - Co-founder and managing editor for [astroEDU](http://iau.org/astroedu), an open access, peer-review platform for reviewing and sharing astronomy education activities, endorsed by [International Astronomical Union](http://iau.org).
