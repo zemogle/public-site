@@ -42,7 +42,7 @@ You can find my blog over at [Dark Matter Sheep][20], where I talk about science
 [16]: http://www.debatingmatters.com/
 [17]: https://www.youtube.com/watch?v=5H2Ak-1cIc0
 [18]: http://brightclubwales.wordpress.com/
-[19]: http://darkmattersheep.uk/blog/science-of-doctor-who-the-movie/
-[20]: http://darkmattersheep.uk/
+[19]: http://www.darkmattersheep.uk/blog/science-of-doctor-who-the-movie/
+[20]: http://www.darkmattersheep.uk/
 [21]: http://lcogt.net/
   
