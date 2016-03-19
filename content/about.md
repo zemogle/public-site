@@ -6,6 +6,8 @@ tags = ["_home"]
 
 +++
 
+{{< figure src="/images/me_aurorae_ln.jpg" title="Me standing under the Northern Lights in Iceland, March 2015. Picture by Babak Tafreshi" >}}
+
 Since childhood I have been fascinated by astronomy. When I realised that I could use maths and computers to do fun things with astronomy, I knew I was hooked for life. I never grew out of it and now I am lucky enough to be a professional astrophysicist. As part of my role with [Las Cumbres Observatory Global Telescope Network][21] (LCOGT) I try to find novel ways to engage the public in science by using astronomy. This has taken the form of creating citizen science projects like [Agent Exoplanet][1], interactive educational web apps like [Star in a Box][2], and online community events like [Show Me Stars][3].
 
 The global education hub for LCOGT is based in [Cardiff University][4] where I am an honourary lecturer/adjunct faculty in the [School of Physics and Astronomy][5]. One of the enjoyably parts of this position is supervising BSc. and MPhys. level undergraduate projects. This year I had 4 project students investigating extrasolar planets. I am very proud that 2 of my former project students have gone on to do PhDs.
@@ -14,7 +16,7 @@ In addition, I am part of the Schools Engagement Team and assist with the outrea
 
 I co-chair the [IAU][11] task force for [children and schools][12], under the guidance of the [Office of Astronomy for Development][13] (OAD). Our aim is to help people in astronomically developing countries to engage with and inspire children and teachers.
 
-I regularly appear on the BBC radio wales programmes, [Science Cafe][14] and [Eleri Sion Show][15]. I have served as guest judge for the national [Debating Matters][16] competition. Engaging with the public is fun and I have been lucky enough to do it in several pubs with [Ignite Cardiff][17] and [Bright Club][18]. 
+I regularly appear on the BBC radio wales programmes, [Science Cafe][14] and [Eleri Sion Show][15]. I have served as guest judge for the national [Debating Matters][16] competition. Engaging with the public is fun and I have been lucky enough to do it in several pubs with [Ignite Cardiff][17] and [Bright Club][18].
 
 Being a life long fan of Doctor Who, I've been delighted to have give [Science of Doctor Who][19] talks in St Louis Science Center, and Cardiff Museum.
 
@@ -45,4 +47,3 @@ You can find my blog over at [Dark Matter Sheep][20], where I talk about science
 [19]: http://darkmattersheep.uk/blog/science-of-doctor-who-the-movie/
 [20]: http://darkmattersheep.uk/
 [21]: http://lcogt.net/
-  

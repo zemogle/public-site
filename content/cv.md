@@ -8,13 +8,14 @@ weight = 4
 
 +++
 
-[@zemogle](http://twitter.com/zemogle) on Twitter
+Twitter: [@zemogle](http://twitter.com/zemogle)
+
 
 ## Current Rôles
 
 Education Director
 [Las Cumbres Observatory Global Telescope Network, Inc.](http://lcogt.net)
-Honourary Lecturer
+Honorary Lecturer
 [School of Physics & Astronomy, Cardiff University](http://www.astro.cardiff.ac.uk)
 
 
@@ -43,7 +44,7 @@ The LCOGT observing portal for education and outreach.
 *Lead developer and maintainer*  
 An online LCOGT citizen science project for investigating the properties of transiting extra-solar planets.
 
-### [Observations](http://lcogt.net/observations )
+### [Observations](http://lcogt.net/observations)
 *Lead developer and maintainer*  
 LCOGT open access observations archive.
 
@@ -62,33 +63,35 @@ More of my projects can be found on my [GitHub profile](https://github.com/zemog
 - Chair of National Astronomy Meeting (UK) education and outreach session organising committee 2014-15.
 
 ## Invited Talks
-- 2015 July - Institute of Physics and National Museum of Wales, Cardiff - "Science of Doctor Who"
-- 2014 Sept - St Louis Science Centre - “Science of Doctor Who”
-- 2014 Apr - Italian National Astronomy Meeting, Milan  - “astroEDU: open access and peer-review for astronomy education”
-- 2014 Mar - TEDxCardiff - “Intelligent robots and the story of light” 2014 Mar
-- 2014 Mar - Queen Mary College, London - “Las Cumbres Observatory: a robotic telescope network for education and science” 
+- 2015 July - Institute of Physics and National Museum of Wales, Cardiff - "Science of Doctor Who”.
+- 2014 Sept - St Louis Science Centre - “Science of Doctor Who”.
+- 2014 Apr - Italian National Astronomy Meeting, Milan, “astroEDU: open access and peer-review for astronomy education”.
+- 2014 Mar - TEDxCardiff, “Intelligent robots and the story of light”.
+- 2014 Mar - Queen Mary College, London - “Las Cumbres Observatory: a robotic telescope network for education and science”.
 - 2013 Oct - Copernicus Centre, Warsaw - “Exoplanets: Exploring new worlds”
-- 2013 Jan - Dunlap Institute, Toronto - “Las Cumbres Observatory: a robotic telescope network for education and science” 
+- 2013 Jan - Dunlap Institute, Toronto - “Las Cumbres Observatory: a robotic telescope network for education and science”
 - 2012 May - Leiden Observatory Science Communication seminar  - “Creating an open network of robotic telescopes”
 
 ## Contributed Talks
 - 2015 Jun National Astronomy Meeting - "Universe in the Classroom"
 - 2014 Jun National Astronomy Meeting - “astroEDU: open access and peer-review for astronomy education”
 - 2012 Aug IAU GA - Special Session: Communicating Astronomy to the Public
-- 2012 Aug IAU GA - Office of Astronomy for Development 
-- 2011 April .Astronomy 3 - “Creating an open network of robotic telescopes” 
+- 2012 Aug IAU GA - Office of Astronomy for Development
+- 2011 April .Astronomy 3 - “Creating an open network of robotic telescopes”
 - 2009 Sept .Astronomy 1 - “Social media: An astronomers field guide”
 - 2009 Jan International Year of Astronomy Cultural Heritage conference
 
 ## Workshops Organized
-- 2015 Aug [STFC Summer School](http://sites.cardiff.ac.uk/astronomy-summer-school/) - Python in Astronomy
+- 2015 Aug [STFC Summer School](http://sites.cardiff.ac.uk/astronomy-summer-school/)
+— [Python in Astronomy](http://www.darkmattersheep.uk/blog/python4cardiff/)
+— [Git 4 Astronomers](http://www.darkmattersheep.uk/blog/git-4-astronomers/)
 - 2015 June National Astronomy Meeting education session chair
 - 2015 June National Astronomy Meeting - Hack Day
 - 2015 Mar Reykjavik teacher workshop
 - 2014 June National Astronomy Meeting education session chair
 - 2013 April AstroPython workshop, Cardiff University
-- 2012 Aug Galileo Teacher Training, Beijing 
-- 2009 Dec .Astronomy - Astronomy Podcasting 
+- 2012 Aug Galileo Teacher Training, Beijing
+- 2009 Dec .Astronomy - Astronomy Podcasting
 - 2007 April EU-Hands on Universe teacher international training conference
 
 ## Significant Grants
