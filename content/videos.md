@@ -9,6 +9,10 @@ weight = 4
 
 I regularly give public and scientific talks. Here are a few of my favourites and others which I've made (about science) for fun.
 
+## Astronomy on Tap, Santa Barbara
+*Jack Photon: a story of light*
+I wrote this story for a Science Storytelling event in Cardiff in April 2016. [This recording was made when I performed the story of Jack Photon](https://youtu.be/UF7ioBvU3_0?t=1h2m18s) again in July 2016 in California.
+
 ## TEDxCardiff
 *Intelligent Robots and the Story of Light*  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sXYzQ2aLesE" frameborder="0" allowfullscreen></iframe>
