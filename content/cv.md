@@ -36,6 +36,10 @@ Cardiff University
 *Lead developer and maintainer*  
 Web app for learning about the life cycle of stars. [Recent winner of Scientix Round 1 competition, category 2, Resources Award](http://www.iau.org/news/announcements/detail/ann14032/).
 
+### [Asteroid Tracker](http://asteroidtracker.lcogt.net)
+*Creator and lead developer*
+Web app to which triggers observations of asteroids (with [Las Cumbres Observatory](http://lcogt.net))) with a single click. Everyone's image get automatically combined into timelapses of the asteroids moving through space.
+
 ### [On Sky](http://lcogt.net/blog/egomez/introducing-sky)
 *Lead developer and maintainer*  
 The LCOGT observing portal for education and outreach.
@@ -58,21 +62,37 @@ More of my projects can be found on my [GitHub profile](https://github.com/zemog
 ## Selected Community Rôles
 - Chair of the International Astronomical Union [Office for Astronomy Development](http://astro4dev.org) Task Force for children and schools.
 - Co-founder and managing editor for [astroEDU](http://iau.org/astroedu), an open access, peer-review platform for reviewing and sharing astronomy education activities, endorsed by [International Astronomical Union](http://iau.org).
-- Education and Science Editor for Universe Awareness: [Space Scoop](http://unawe.org/kids), astronomy press-releases rewritten for children.
+- Education and Science Editor for Universe Awareness: [Space Scoop](http://spacescoop.org), astronomy press-releases rewritten for children.
 - Supporting and initiating partnerships between schools and university researchers for collaboration on the LCOGT pilot minor planet program using LCOGT network telescopes.
 - Chair of National Astronomy Meeting (UK) education and outreach session organising committee 2014-15.
+- Local Organising Committee for [.Astronomy 8](http://dotastronomy.com) conference in Oxford, 2016.
+- Local Organising Committee for [National Astronomy Meeting](http://nam2016.org) conference in Nottingham, 2016.
+- [Camp Cosmos](http://lcogt.net/campcosmos/) director, 2016
 
 ## Invited Talks
-- 2015 July - Institute of Physics and National Museum of Wales, Cardiff - "Science of Doctor Who”.
-- 2014 Sept - St Louis Science Centre - “Science of Doctor Who”.
 - 2014 Apr - Italian National Astronomy Meeting, Milan, “astroEDU: open access and peer-review for astronomy education”.
-- 2014 Mar - TEDxCardiff, “Intelligent robots and the story of light”.
 - 2014 Mar - Queen Mary College, London - “Las Cumbres Observatory: a robotic telescope network for education and science”.
 - 2013 Oct - Copernicus Centre, Warsaw - “Exoplanets: Exploring new worlds”
 - 2013 Jan - Dunlap Institute, Toronto - “Las Cumbres Observatory: a robotic telescope network for education and science”
 - 2012 May - Leiden Observatory Science Communication seminar  - “Creating an open network of robotic telescopes”
 
-## Contributed Talks
+## Recent Public Talks
+- 2016 July - Astronomy on Tap, Santa Barbara - "Jack Photon: a story of light"
+- 2016 June - Mensa Cymru - "Science of Doctor Who: Space Travel and Alien Worlds”.
+- 2016 June - Devizes Festival - "Science of Doctor Who: Space Travel and Alien Worlds”.
+- 2016 April - Swansea Cafe Scientifique - "Science of Doctor Who: Space Travel and Alien Worlds”.
+- 2016 February - Bristol Astronomical Society - "Las Cumbres Observatory: a global telescope network"
+- 2016 February - IoP Science Storytelling - "Jack Photon: a story of light"
+- 2015 December - Humanist Society of UK - "Science of Doctor Who: Space Travel and Alien Worlds”.
+- 2015 December - Salisbury Cafe Scientifique - "Science of Doctor Who: Space Travel and Alien Worlds”.
+- 2015 July - [Institute of Physics](http://www.iop.org) and National Museum of Wales, Cardiff - "Science of Doctor Who: Time Travel and Alien Worlds”.
+- 2014 Sept - St Louis Science Centre - “Science of Doctor Who: Space Travel and Alien Worlds”.
+- 2014 Mar - TEDxCardiff, “Intelligent robots and the story of light”.
+
+
+## Contributed Conference Talks
+- 2016 Jun National Astronomy Meeting - "There is no such thing as a stupid question"
+- 2016 April TEMI conference - "Big Questions in Science"
 - 2015 Jun National Astronomy Meeting - "Universe in the Classroom"
 - 2014 Jun National Astronomy Meeting - “astroEDU: open access and peer-review for astronomy education”
 - 2012 Aug IAU GA - Special Session: Communicating Astronomy to the Public
@@ -82,6 +102,10 @@ More of my projects can be found on my [GitHub profile](https://github.com/zemog
 - 2009 Jan International Year of Astronomy Cultural Heritage conference
 
 ## Workshops Organized
+- 2016 June National Astronomy Meeting Schools' Day organizer
+- 2016 June National Astronomy Meeting outreach session chair
+- 2016 June [.Astronomy 8](http://dotastronomy.com) - [Snakes &amp; Ponies: A Beginners guide to Django](http://www.zemogle.uk/django-tutorial/)
+- 2016 April [Robotic Telescopes in Education](https://lcogt.net/edurobot16/), Leiden Observatory
 - 2015 Aug [STFC Summer School](http://sites.cardiff.ac.uk/astronomy-summer-school/)
 — [Python in Astronomy](http://www.darkmattersheep.uk/blog/python4cardiff/)
 — [Git 4 Astronomers](http://www.darkmattersheep.uk/blog/git-4-astronomers/)
