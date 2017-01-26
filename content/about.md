@@ -20,7 +20,7 @@ Currently I am working on how we make the LCO global telescope network exciting 
 
 Being a life long fan of Doctor Who, I've been delighted to give [Science of Doctor Who][19] talks in St Louis Science Center, National Museum of Wales (Cardiff) and to a variety of amateur science and science fiction societies across UK.
 
-I love comic books and had the fantastic opportunity to work with a Cardiff based artist, Laura Sorvala, to produce [There's no such thing as a stupid question](https://lco.global/education/resources/print/). The main aim is to show kids that science is about being curious, no matter who you are. We've given out over 1000 copies of this comic book to kids and adults in Wales, Netherlands and California.
+I love comic books and had the fantastic opportunity to work with a Cardiff based artist, [Laura Sorvala](http://www.auralab.co.uk/), to produce [There's no such thing as a stupid question](https://lco.global/education/resources/print/). The main aim is to show kids that science is about being curious, no matter who you are. We've given out over 1000 copies of this comic book to kids and adults in Wales, Netherlands and California.
 
 I regularly appear on the BBC radio wales programmes, [Science Cafe][14] and [Eleri Sion Show][15]. I have served as guest judge for the national [Debating Matters][16] competition. Engaging with the public is fun and I have been lucky enough to do it in several pubs with [Ignite Cardiff][17] and [Bright Club][18].
 
