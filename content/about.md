@@ -8,31 +8,31 @@ tags = ["_home"]
 
 {{< figure src="/images/me_aurorae_ln.jpg" title="Me standing under the Northern Lights in Iceland, March 2015. Picture by Babak Tafreshi" >}}
 
-Since childhood I have been fascinated by astronomy. When I realised that I could use maths and computers to do fun things with astronomy, I knew I was hooked for life. I never grew out of it and now I am lucky enough to be a professional astrophysicist. As part of my role with [Las Cumbres Observatory Global Telescope Network][21] (LCOGT) I try to find novel ways to engage the public in science by using astronomy. This has taken the form of creating citizen science projects like [Agent Exoplanet][1], interactive educational web apps like [Star in a Box][2], and online community events like [Show Me Stars][3] and [Asteroid Tracker](http://asteroidtracker.lcogt.net/).
+Since childhood I have been fascinated by astronomy. When I realised that I could use maths and computers to do fun things with astronomy, I knew I was hooked for life. I never grew out of it and now I am lucky enough to be a professional astrophysicist. As part of my role with [Las Cumbres Observatory][21] (LCO) I try to find novel ways to engage the public in science by using astronomy. This has taken the form of creating citizen science projects like [Agent Exoplanet][1], interactive educational web apps like [Star in a Box][2], and online community events like [Show Me Stars][3] and [Asteroid Tracker](http://asteroidtracker.lco.global/).
 
-The global education hub for LCOGT is based in [Cardiff University][4] where I am an honourary lecturer/adjunct faculty in the [School of Physics and Astronomy][5]. One of the enjoyably parts of this position is supervising BSc. and MPhys. level undergraduate projects. I am very proud that 4 of my former project students have gone on to do PhDs.
+The global education hub for LCO is based in [Cardiff University][4] where I am an honourary lecturer/adjunct faculty in the [School of Physics and Astronomy][5]. One of the enjoyably parts of this position is supervising BSc. and MPhys. level undergraduate projects. I am very proud that 4 of my former project students have gone on to do PhDs. Currently my students are making physics games in Python using the [PyGame library](https://www.pygame.org/docs/).
 
-In addition, I am part of the Schools Engagement Team and assist with the outreach of the University. We have recently been awarded funding by the [Welsh Government][6]'s [National Science Academy][7] to run the programme [Universe in the Classroom][8], inspiring children and teachers with [Universe in a Box][9] kits and stellar role models, across Wales. Universe in the Classrom is run in partnership with the international project [Universe Awareness][10].
+In addition, I am part of the Schools Engagement Team and assist with the outreach of the University. Together with my wife, [Haley Gomez][22], I run the [Universe in the Classroom][8] programme inspiring children and teachers in Wales with [Universe in a Box][9] kits, stellar role models and using the LCO robotic telescopes. Universe in the Classroom is run in partnership with the international project [Universe Awareness][10].
 
 I co-chair the [IAU][11] task force for [children and schools][12], under the guidance of the [Office of Astronomy for Development][13] (OAD). Our aim is to help people in astronomically developing countries to engage with and inspire children and teachers.
 
+Currently I am working on how we make the LCO global telescope network exciting and accessible to a diverse audience, and what tools we need to make the most of its potential. What particularly concerns me is using the power of astronomy to inspire people who would not normally be interested in science (this being the main motivation for [Asteroid Tracker](http://asteroidtracker.lco.global/)). With LCO we have a unique opportunity to use cutting edge web technology to reach an audience who would not normally engage with science.
+
+Being a life long fan of Doctor Who, I've been delighted to give [Science of Doctor Who][19] talks in St Louis Science Center, National Museum of Wales (Cardiff) and to a variety of amateur science and science fiction societies across UK.
+
 I regularly appear on the BBC radio wales programmes, [Science Cafe][14] and [Eleri Sion Show][15]. I have served as guest judge for the national [Debating Matters][16] competition. Engaging with the public is fun and I have been lucky enough to do it in several pubs with [Ignite Cardiff][17] and [Bright Club][18].
-
-Being a life long fan of Doctor Who, I've been delighted to give [Science of Doctor Who][19] talks in St Louis Science Center, National Museum of Wales (Cardiff) and to a variety of amateur science societies across UK.
-
-Currently I am working at how we make the LCOGT global telescope network exciting and accessible to a diverse audience, and what tools we need to make the most of its potential. What particularly concerns me is using the power of astronomy to inspire people who would not normally be interested in science.
 
 I love music and play the lute. Part of me thinks that makes me closer to a renaissance astronomer, like Galileo.
 
-You can find my blog over at [Dark Matter Sheep][20], where I talk about science, music, films, coding, gender equity, and some other things that interest me.
+You can find my blog over at [Dark Matter Sheep][20], where I talk about science, coding, gender equity, music, films, and some other things that interest me.
 
 For more details about my public talks, conference talks, workshop and project involved with, look at my [professional CV/Resumé](/cv/).
 
-[1]: http://lcogt.net/agentexoplanet
-[2]: http://lcogt.net/starinabox
-[3]: https://lcogt.net/blog/show-me-stars/
-[4]: http://www.cf.ac.uk
-[5]: http://www.astro.cf.ac.uk
+[1]: http://lco.global/agentexoplanet
+[2]: http://starinabox.lco.global
+[3]: https://lco.global/blog/show-me-stars/
+[4]: http://www.cardiff.ac.uk
+[5]: http://www.astro.cardiff.ac.uk
 [6]: http://wales.gov.uk/?lang=en
 [7]: http://wales.gov.uk/topics/businessandeconomy/csaw/nsa/?lang=en
 [8]: http://blogs.cardiff.ac.uk/physicsoutreach/universe-in-the-classroom/
@@ -48,4 +48,5 @@ For more details about my public talks, conference talks, workshop and project i
 [18]: http://brightclubwales.wordpress.com/
 [19]: http://www.darkmattersheep.uk/blog/science-of-doctor-who-the-movie/
 [20]: http://www.darkmattersheep.uk/
-[21]: http://lcogt.net/
+[21]: http://lco.global/
+[22]: http://haley.gomez.me.uk/
