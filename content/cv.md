@@ -70,37 +70,39 @@ More of my projects can be found on my [GitHub profile](https://github.com/zemog
 - [Camp Cosmos](http://lco.global/campcosmos/) director, 2016
 
 ## Invited Talks
-- 2014 Apr - Italian National Astronomy Meeting, Milan, “astroEDU: open access and peer-review for astronomy education”.
-- 2014 Mar - Queen Mary College, London - “Las Cumbres Observatory: a robotic telescope network for education and science”.
-- 2013 Oct - Copernicus Centre, Warsaw - “Exoplanets: Exploring new worlds”
-- 2013 Jan - Dunlap Institute, Toronto - “Las Cumbres Observatory: a robotic telescope network for education and science”
-- 2012 May - Leiden Observatory Science Communication seminar  - “Creating an open network of robotic telescopes”
+- 2017 Feb - Center for Astrophysics, Harvard University - Smithsonian Institute, "Las Cumbres Observatory"
+- 2014 Apr - Italian National Astronomy Meeting, Milan, "astroEDU: open access and peer-review for astronomy education".
+- 2014 Mar - Queen Mary College, London - "Las Cumbres Observatory: a robotic telescope network for education and science".
+- 2013 Oct - Copernicus Centre, Warsaw - "Exoplanets: Exploring new worlds"
+- 2013 Jan - Dunlap Institute, Toronto - "Las Cumbres Observatory: a robotic telescope network for education and science"
+- 2012 May - Leiden Observatory Science Communication seminar  - "Creating an open network of robotic telescopes"
 
 ## Recent Public Talks
 - 2017 January - British Science Fiction Association - "Science of Doctor Who: Time Travel and the Master"
+- 2016 December - IoP Science Storytelling - "Jack Photon: a story of light"
 - 2016 December - St Louis Science Centre - "Science of Doctor Who: Time Travel and the Master"
 - 2016 July - Astronomy on Tap, Santa Barbara - "Jack Photon: a story of light"
-- 2016 June - Mensa Cymru - "Science of Doctor Who: Space Travel and Alien Worlds”.
-- 2016 June - Devizes Festival - "Science of Doctor Who: Space Travel and Alien Worlds”.
-- 2016 April - Swansea Cafe Scientifique - "Science of Doctor Who: Space Travel and Alien Worlds”.
+- 2016 June - Mensa Cymru - "Science of Doctor Who: Space Travel and Alien Worlds".
+- 2016 June - Devizes Festival - "Science of Doctor Who: Space Travel and Alien Worlds".
+- 2016 April - Swansea Cafe Scientifique - "Science of Doctor Who: Space Travel and Alien Worlds".
 - 2016 February - Bristol Astronomical Society - "Las Cumbres Observatory: a global telescope network"
 - 2016 February - IoP Science Storytelling - "Jack Photon: a story of light"
-- 2015 December - Humanist Society of UK - "Science of Doctor Who: Space Travel and Alien Worlds”.
-- 2015 December - Salisbury Cafe Scientifique - "Science of Doctor Who: Space Travel and Alien Worlds”.
-- 2015 July - [Institute of Physics](http://www.iop.org) and National Museum of Wales, Cardiff - "Science of Doctor Who: Time Travel and Alien Worlds”.
-- 2014 Sept - St Louis Science Centre - “Science of Doctor Who: Space Travel and Alien Worlds”.
-- 2014 Mar - TEDxCardiff, “Intelligent robots and the story of light”.
+- 2015 December - Humanist Society of UK - "Science of Doctor Who: Space Travel and Alien Worlds".
+- 2015 December - Salisbury Cafe Scientifique - "Science of Doctor Who: Space Travel and Alien Worlds".
+- 2015 July - [Institute of Physics](http://www.iop.org) and National Museum of Wales, Cardiff - "Science of Doctor Who: Time Travel and Alien Worlds".
+- 2014 Sept - St Louis Science Centre - "Science of Doctor Who: Space Travel and Alien Worlds".
+- 2014 Mar - TEDxCardiff, "Intelligent robots and the story of light".
 
 
 ## Contributed Conference Talks
 - 2016 Jun National Astronomy Meeting - "There is no such thing as a stupid question"
 - 2016 April TEMI conference - "Big Questions in Science"
 - 2015 Jun National Astronomy Meeting - "Universe in the Classroom"
-- 2014 Jun National Astronomy Meeting - “astroEDU: open access and peer-review for astronomy education”
+- 2014 Jun National Astronomy Meeting - "astroEDU: open access and peer-review for astronomy education"
 - 2012 Aug IAU GA - Special Session: Communicating Astronomy to the Public
 - 2012 Aug IAU GA - Office of Astronomy for Development
-- 2011 April .Astronomy 3 - “Creating an open network of robotic telescopes”
-- 2009 Sept .Astronomy 1 - “Social media: An astronomers field guide”
+- 2011 April .Astronomy 3 - "Creating an open network of robotic telescopes"
+- 2009 Sept .Astronomy 1 - "Social media: An astronomers field guide"
 - 2009 Jan International Year of Astronomy Cultural Heritage conference
 
 ## Workshops Organized
@@ -121,9 +123,9 @@ More of my projects can be found on my [GitHub profile](https://github.com/zemog
 - 2007 April EU-Hands on Universe teacher international training conference
 
 ## Significant Grants
-- 2013 - 2016 Fascination Astronomy (Co-I) - Qatar Foundation
 - 2014 - 2018 [Universe in the Classroom](http://universe.wales) (Co-founder) - National Science Academy, Welsh Government
 - 2014 - 2017 NEO follow-up (Co-I) - NASA, see [NEO exchange website](http://lco.global/neoexchange/) created by me for this project
+- 2013 - 2016 Fascination Astronomy (Co-I) - Qatar Foundation
 
 ## Coding Languages
 
