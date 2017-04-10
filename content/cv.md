@@ -77,6 +77,9 @@ More of my projects can be found on my [GitHub profile](https://github.com/zemog
 - 2013 Jan - Dunlap Institute, Toronto - "Las Cumbres Observatory: a robotic telescope network for education and science"
 - 2012 May - Leiden Observatory Science Communication seminar  - "Creating an open network of robotic telescopes"
 
+## Selected Publications
+- [Robotic Telescopes in Education](http://dx.doi.org/10.1080/21672857.2017.1303264), Gomez EL, Fitzgerald MT, 2017, Astronomical Review
+
 ## Recent Public Talks
 - 2017 January - British Science Fiction Association - "Science of Doctor Who: Time Travel and the Master"
 - 2016 December - IoP Science Storytelling - "Jack Photon: a story of light"
