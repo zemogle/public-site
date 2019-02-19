@@ -4,7 +4,6 @@ build:
     - arjen/hugo-build:
         version: 0.17
         theme: hyde
-        flags: --disableSitemap=true
 deploy:
   steps:
     # Execute the s3sync deploy step, a step provided by wercker
