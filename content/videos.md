@@ -1,34 +1,27 @@
 +++
-date = "2015-08-08T16:27:42+01:00"
+date = "2015-08-23T15:46:47+01:00"
 draft = false
-title = "Videos of Me"
-[menu.main]
-name = "Videos of Me"
-weight = 4
+title = "Videos"
 +++
 
-I regularly give public and scientific talks. Here are a few of my favourites and others which I've made (about science) for fun.
+I like making videos for science communication purposes. Here are some that I'm proud of in some way. You can see the rest on my [YouTube Channel](https://www.youtube.com/user/zemogle/videos).
 
-## Astronomy on Tap, Santa Barbara
-*Jack Photon: a story of light*
-I wrote this story for a Science Storytelling event in Cardiff in April 2016. [This recording was made when I performed the story of Jack Photon](https://youtu.be/UF7ioBvU3_0?t=1h2m18s) again in July 2016 in California.
+## A day in the life of a physics Student
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SVa2TTLPfjI" frameborder="0" allowfullscreen></iframe>  
+I agreed to make this promotional video for [Cardiff University, School of Physics and Astronomy](http://www.astro.cf.ac.uk). It features a typical day for one of our 3rd year students.
 
-## TEDxCardiff
-*Intelligent Robots and the Story of Light*  
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXYzQ2aLesE" frameborder="0" allowfullscreen></iframe>
+## Herschel and Planck launch
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P0daasNF40Y" frameborder="0" allowfullscreen></iframe>  
+[Herschel](http://herschel.cf.ac.uk) and [Planck](http://planck.cf.ac.uk) are two amazing astronomical observatories launched in 2009. They have revolutionary technology on board to observe the coldest things in the Universe and the afterglow of the Big Bang. Many people at Cardiff University worked on them, so there was a big party for the launch.
 
-## Science of Doctor Who
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1FrLoJwWBtE" frameborder="0" allowfullscreen></iframe>  
-St Louis Science Centre invited me to give to talk on the Science of Doctor Who in Sept 2014. As a massive Doctor Who fan, I was delighted to accept!
+## Cut-out Planck model
+<iframe src="https://player.vimeo.com/video/20783781" width="500" height="375" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
+In 2011, [Stuart Lowe](http://strudel.org.uk) made a cut-out model of the [Planck satellite](http://planck.cf.ac.uk/education/model). I made this time-lapse of him making the model.
 
-## Python and Robotic Telescopes
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XT2t8diakPo" frameborder="0" allowfullscreen></iframe>  
-A conference talk in the Lorentz Centre workshop about how we use Python at LCOGT, Python in Astronomy, in April 2015.
+## Teapots from Space
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1X15F_l9f6o" frameborder="0" allowfullscreen></iframe>  
+In 2008, Jon Yardley and I made 4 episodes of [Teapots from Space](http://lcogt.net/teapotsfromspace/). It was supposed to be in the style of 1950s sci-fi crossed with satirical documentary. I'll let you judge for yourself.
 
-## Ignite Cardiff
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5H2Ak-1cIc0" frameborder="0" allowfullscreen></iframe>
-Ignite Cardiff is a series of Pecha Kucha style (5 mins, 20 slides with the slides autoadvancing every 15s) talks on a variety of different subjects to an audience in a Cardiff pub. I gave this talk, entitled "Telescopes in Strange Places".
-
-## Bright Club
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EKFubHZu7v4" frameborder="0" allowfullscreen></iframe>  
-This is a stand-up comedy set about being a science geek, I did back in Nov 2011. Be warned, there is a little bit of naughty language at the start.
+## .Astronomy 2
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PcuKzctC_Ms" frameborder="0" allowfullscreen></iframe>  
+As part of a Hack Day, I made this video about what [.Astronomy conference series](http://dotastronomy.com) meant to people.

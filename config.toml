@@ -1,6 +1,44 @@
 BaseURL = "http://edward.gomez.me.uk"
 languageCode = "en-gb"
 title = "Edward Gomez"
+theme = "hyde"
+
+[[menu.main]]
+  name = "Home"
+  weight = 10
+  identifier = "home"
+  url = "/"
+
+[[menu.main]]
+  name = "CV"
+  weight = 20
+  identifier = "cv"
+  url = "/cv/"
+
+[[menu.main]]
+    name = "Talks"
+    weight = 30
+    identifier = "talks"
+    url = "/talks/"
+
+[[menu.main]]
+  name = "Videos"
+  weight = 30
+  identifier = "my-videos"
+  url = "/videos/"
+
+# Add your own params here
 [params]
   themeColor = "theme-base-09"
-  description = "Astronomer, Software Developer, Science Communicator"
+  author = "Edward Gomez"
+  bg = "images/grey-prism.svg"
+  avatar = "images/avatar.png"
+  seotitle = "Edward Gomez: Astronomer, Coder, Educator, Enthusiast"
+  description = "Astronomer, Coder, Educator, Enthusiast"
+  paginate = 10
+
+  # Choose your social networks
+  email = "hello@gomez.me.uk"
+  github = "zemogle"
+  twitter = "zemogle"
+  linkedin = "zemogle"
