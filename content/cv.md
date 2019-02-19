@@ -1,11 +1,8 @@
 +++
 date = "2015-08-08T16:27:42+01:00"
 draft = false
-title = "CV"
+title = "Curriculum Vitae"
 +++
-
-# Curriculum Vitae - Dr Edward Leocadio Gomez
-
 
 ## Current Rôles
 
