@@ -1,4 +1,4 @@
-BaseURL = "http://edward.gomez.me.uk"
+BaseURL = "http://edward.gomez.me.uk/"
 languageCode = "en-gb"
 title = "Edward Gomez"
 theme = "hyde"
