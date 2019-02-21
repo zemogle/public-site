@@ -12,3 +12,4 @@ deploy:
         key_secret: $AWS_KEY_SECRET_E
         bucket_url: $AWS_BUCKET_E
         source_dir: public/
+        opts: --no-check-certificate

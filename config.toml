@@ -31,8 +31,6 @@ theme = "hyde"
 [params]
   themeColor = "theme-base-09"
   author = "Edward Gomez"
-  bg = "images/grey-prism.svg"
-  avatar = "images/avatar.png"
   seotitle = "Edward Gomez: Astronomer, Coder, Educator, Enthusiast"
   description = "Astronomer, Coder, Educator, Enthusiast"
   paginate = 10
