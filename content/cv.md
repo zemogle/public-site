@@ -6,10 +6,8 @@ title = "Edward Gomez - Curriculum Vitae"
 
 ## Current Rôles
 
-Education Director
-[Las Cumbres Observatory](http://lco.global)
-Honorary Lecturer
-[School of Physics & Astronomy, Cardiff University](http://www.astro.cardiff.ac.uk)
+- Education Director, [Las Cumbres Observatory](http://lco.global)
+- Honorary Lecturer, [School of Physics & Astronomy, Cardiff University](http://www.astro.cardiff.ac.uk)
 
 
 ## Education
