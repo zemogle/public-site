@@ -23,8 +23,9 @@ Cardiff University
 
 
 ## Awards and Nominations
-- **Scientix Award** for Best Resources in Science, Technology, Mathematics and Engineering - [Star in a Box](http://starinabox.lco.global/). This was a joint effort by many people, particularly myself, Stuart Lowe and Megan Davies. It was also awarded to [astroEDU](https://astroedu.iau.org) for improving the activity through peer-review.
-- **HundrED 2019** - Inclusion of [astroEDU](https://astroedu.iau.org) in the [100 most inspiring and innovative tools](http://hundred.org/) in STEM education.
+- **Lise Meitner Medal** from [Institute of Physics](https://www.iop.org). This Silver Subject medal is awarded for distinguished contributions to public engagement in physics. The [complete citation can be found on the IOP website](https://www.iop.org/about/awards/2020-lise-meitner-medal-and-prize)
+- **Scientix Award** for Best Resources in Science, Technology, Mathematics and Engineering - [Star in a Box](http://starinabox.lco.global/). This was a joint effort by many people, particularly myself, Stuart Lowe, Megan Davies, Chris North, and Jon Yardley. It was also awarded to [astroEDU](https://astroedu.iau.org) for improving the activity through peer-review.
+- **HundrED 2019 Global Collection** - Inclusion of [astroEDU](https://astroedu.iau.org) in the [100 most inspiring innovatives](http://hundred.org/) in education.
 - **Most Uplifting Staff Member** Nomination in the Cardiff University Enriching Student Life awards 2015, by students in the School of Physics and Astronomy.
 
 
