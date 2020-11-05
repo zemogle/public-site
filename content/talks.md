@@ -31,4 +31,5 @@ Ignite Cardiff is a series of Pecha Kucha style (5 mins, 20 slides with the slid
 ## Bright Club
 {{< youtube EKFubHZu7v4 >}}  
 
-This is a stand-up comedy set about being a science geek, I did back in Nov 2011. Be warned, there is a little bit of naughty language at the start.
+**Be warned, there is a little bit of naughty language at the start.**
+This is a stand-up comedy set about being a science geek, I did back in Nov 2011.
