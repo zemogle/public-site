@@ -6,11 +6,11 @@ title = "Talks and performances"
 
 I regularly give public and scientific talks. Here are a few of my favourites and others which I've made (about science) for fun.
 
-## Astronomy on Tap, Santa Barbara
-*Jack Photon: a story of light*
+## Jack Photon: a story of light
+*Astronomy on Tap, Santa Barbara*
 I wrote this story for an [Institute of Physics](https://www.iop.org) Science Storytelling event in Cardiff in April 2016. This recording was made when I performed the story of Jack Photon again in July 2016 in California.
 
-{{< youtube UF7ioBvU3_0?t=1h2m18s >}}
+{{< youtube id="UF7ioBvU3_0?start=1h2m18s" >}}
 
 ## TEDxCardiff
 *Intelligent Robots and the Story of Light*  
