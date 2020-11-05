@@ -8,7 +8,9 @@ I regularly give public and scientific talks. Here are a few of my favourites an
 
 ## Astronomy on Tap, Santa Barbara
 *Jack Photon: a story of light*
-I wrote this story for an [Institute of Physics](https://www.iop.org) Science Storytelling event in Cardiff in April 2016. [This recording was made when I performed the story of Jack Photon](https://youtu.be/UF7ioBvU3_0?t=1h2m18s) again in July 2016 in California.
+I wrote this story for an [Institute of Physics](https://www.iop.org) Science Storytelling event in Cardiff in April 2016. This recording was made when I performed the story of Jack Photon again in July 2016 in California.
+
+{{< youtube UF7ioBvU3_0?t=1h2m18s >}}
 
 ## TEDxCardiff
 *Intelligent Robots and the Story of Light*  
@@ -27,9 +29,3 @@ A conference talk in the Lorentz Centre workshop about how we use Python at Las 
 ## Ignite Cardiff
 {{< youtube 5H2Ak-1cIc0 >}}  
 Ignite Cardiff is a series of Pecha Kucha style (5 mins, 20 slides with the slides autoadvancing every 15s) talks on a variety of different subjects to an audience in a Cardiff pub. I gave this talk, entitled "Telescopes in Strange Places".
-
-## Bright Club
-{{< youtube EKFubHZu7v4 >}}  
-
-**Be warned, there is a little bit of naughty language at the start.**
-This is a stand-up comedy set about being a science geek, I did back in Nov 2011.
