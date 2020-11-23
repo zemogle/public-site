@@ -6,6 +6,11 @@ title = "Talks and performances"
 
 I regularly give public and scientific talks. Here are a few of my favourites and others which I've made (about science) for fun.
 
+## Robotic Telescopes don't have eyepieces
+A talk I gave at the Future of Meetings virtual conference during the summer of 2020.
+
+{{< youtube OPTBcO9SJR4 >}}
+
 ## Jack Photon: a story of light
 *Astronomy on Tap, Santa Barbara*
 I wrote this story for an [Institute of Physics](https://www.iop.org) Science Storytelling event in Cardiff in April 2016. This recording was made when I performed the story of Jack Photon again in July 2016 in California.
