@@ -1,10 +1,10 @@
 +++
 date = "2015-08-08T16:27:42+01:00"
 draft = false
-title = "Talks and performances"
+title = "Public Talks"
 +++
 
-I regularly give public and scientific talks. Here are a few of my favourites and others which I've made (about science) for fun.
+I regularly give public and scientific talks. Here are a few of my favourites.
 
 ## Robotic Telescopes don't have eyepieces
 A talk I gave at the Future of Meetings virtual conference during the summer of 2020.
