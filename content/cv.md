@@ -4,9 +4,11 @@ draft = false
 title = "Edward Gomez - Curriculum Vitae"
 +++
 
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-5749-1507" href="https://orcid.org/0000-0001-5749-1507" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-5749-1507</a></div>
+
 ## Current Rôles
 
-- Education Director, [Las Cumbres Observatory](http://lco.global)
+- Education Director, [Las Cumbres Observatory](https://lco.global)
 - Honorary Lecturer, [School of Physics & Astronomy, Cardiff University](http://www.astro.cardiff.ac.uk)
 
 
@@ -23,15 +25,15 @@ Cardiff University
 
 
 ## Awards and Nominations
-- **Lise Meitner Medal** from [Institute of Physics](https://www.iop.org). This Silver Subject medal is awarded for distinguished contributions to public engagement in physics. The [complete citation can be found on the IOP website](https://www.iop.org/about/awards/2020-lise-meitner-medal-and-prize)
-- **Scientix Award** for Best Resources in Science, Technology, Mathematics and Engineering - [Star in a Box](http://starinabox.lco.global/). This was a joint effort by many people, particularly myself, Stuart Lowe, Megan Davies, Chris North, and Jon Yardley. It was also awarded to [astroEDU](https://astroedu.iau.org) for improving the activity through peer-review.
-- **HundrED 2019 Global Collection** - Inclusion of [astroEDU](https://astroedu.iau.org) in the [100 most inspiring innovatives](http://hundred.org/) in education.
-- **Most Uplifting Staff Member** Nomination in the Cardiff University Enriching Student Life awards 2015, by students in the School of Physics and Astronomy.
+- **Lise Meitner Medal** from [Institute of Physics](https://www.iop.org), in 2020. This Silver Subject medal is awarded for distinguished contributions to public engagement in physics. The [complete citation can be found on the IOP website](https://www.iop.org/about/awards/2020-lise-meitner-medal-and-prize)
+- **HundrED 2021 Global Collection** - Inclusion of [Global Sky Partners](https://lco.global/education/partners) in the [100 most inspiring innovations](http://hundred.org/) in education.
+- **Scientix Award** for Best Resources in Science, Technology, Mathematics and Engineering - [Star in a Box](http://starinabox.lco.global/) in 2015. This was a joint effort by many people, particularly myself, Stuart Lowe, Megan Davies, Chris North, and Jon Yardley. It was also awarded to [astroEDU](https://astroedu.iau.org) for improving the activity through peer-review.
+- **HundrED 2019 Global Collection** - Inclusion of [astroEDU](https://astroedu.iau.org) in the [100 most inspiring innovations](http://hundred.org/) in education.
 
 
 ## Selected Community Rôles
 - Founder of [Ada's Adventures in Science](http://www.adacomic.uk) comic book series
-- Project organizer for Las Cumbres Observatory's [Global Sky Partners](https://lco.global/education/partners/)
+- Director of [Global Sky Partners](https://lco.global/education/partners/), providing educational opportunities to use robotic telescopes, through Las Cumbres Observatory
 - Associate editor for [Frontiers for Young Minds](https://kids.frontiersin.org/)
 - Chair of the International Astronomical Union [Office for Astronomy Development](http://astro4dev.org) Task Force for children and schools.
 - Co-founder of [astroEDU](http://iau.org/astroedu), an open access, peer-review platform for reviewing and sharing astronomy education activities, endorsed by [International Astronomical Union](http://iau.org).
@@ -54,7 +56,9 @@ Cardiff University
 - [Robotic Telescopes in Education](http://dx.doi.org/10.1080/21672857.2017.1303264), Gomez EL, Fitzgerald MT, 2017, Astronomical Review
 - [Using machine learning to study the kinematics of cold gas in galaxies](https://doi.org/10.1093/mnras/stz3097) Dawson, James M., Davis, Timothy A., Gomez, Edward L., Schock, Justus, 2019, Monthly Notices of the Royal Astronomical Society 491 (2), 2506–2519
 
-## Public Talks
+## Selected Public Talks
+
+- 2020 Oct - Swansea Science Festival - "Only a Matter of time". An interview with comedian, David Baddiel and science of time travel talk.
 - 2020 Feb - Cardiff Science Festival - "Science of Time Travel"
 - 2020 Jan - Royal Astronomical Society, London - "Science of Time Travel"
 - 2017 January - British Science Fiction Association - "Science of Doctor Who: Time Travel and the Master"
@@ -74,6 +78,7 @@ Cardiff University
 
 
 ## Contributed Conference Talks
+- 2020 Sept - The Future of Meetings - "Robotic telescopes don't have eyepieces"
 - 2016 Jun - National Astronomy Meeting - "There is no such thing as a stupid question"
 - 2016 April - TEMI conference - "Big Questions in Science"
 - 2015 Jun - National Astronomy Meeting - "Universe in the Classroom"
@@ -102,13 +107,14 @@ Cardiff University
 - 2007 April - EU-Hands on Universe teacher international training conference
 
 ## Significant Grants
+- 2020 - present Simons Foundation to support Global Sky Partners
 - 2014 - 2018 [Universe in the Classroom](http://universe.wales) (Co-founder) - National Science Academy, Welsh Government
 - 2014 - 2017 NEO follow-up (Co-I) - NASA, see [NEO exchange website](http://lco.global/neoexchange/) created by me for this project
 - 2013 - 2016 Fascination Astronomy (Co-I) - Qatar Foundation
 
 ## Selected Web Projects
 
-### [Star in a Box](http://lco.global/starinabox)
+### [Star in a Box](https://starinabox.lco.global)
 *Lead developer and maintainer*  
 Web app for learning about the life cycle of stars. [2015 winner of Scientix Round 1 competition, category 2, Resources Award](http://www.iau.org/news/announcements/detail/ann14032/).
 
