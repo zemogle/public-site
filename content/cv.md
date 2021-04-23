@@ -53,6 +53,7 @@ Cardiff University
 - 2012 May - Leiden Observatory Science Communication seminar  - "Creating an open network of robotic telescopes"
 
 ## Selected Publications
+- [NEOExchange - an online portal for NEO and Solar System science](https://doi.org/10.1016/j.icarus.2021.114387), T.A.Lister, E.Gomez, J.Chatelain, S.Greenstreet, J.MacFarlane, A.Tedeschi, I.Kosicb, Icarus, Volume 364, August 2021, 114387
 - [Robotic Telescopes in Education](http://dx.doi.org/10.1080/21672857.2017.1303264), Gomez EL, Fitzgerald MT, 2017, Astronomical Review
 - [Using machine learning to study the kinematics of cold gas in galaxies](https://doi.org/10.1093/mnras/stz3097) Dawson, James M., Davis, Timothy A., Gomez, Edward L., Schock, Justus, 2019, Monthly Notices of the Royal Astronomical Society 491 (2), 2506–2519
 
