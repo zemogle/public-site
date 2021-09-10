@@ -40,3 +40,8 @@ theme = "hyde"
   github = "zemogle"
   twitter = "zemogle"
   linkedin = "zemogle"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

@@ -4,40 +4,32 @@ draft = false
 title = "Edward Gomez - Curriculum Vitae"
 +++
 
-<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-5749-1507" href="https://orcid.org/0000-0001-5749-1507" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0000-0001-5749-1507</a></div>
+<div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0001-5749-1507" href="https://orcid.org/0000-0001-5749-1507" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;float:left;" alt="ORCID iD icon">0000-0001-5749-1507</a></div>
 
 ## Current Rôles
-
 - Education Director, [Las Cumbres Observatory](https://lco.global)
 - Honorary Lecturer, [School of Physics & Astronomy, Cardiff University](http://www.astro.cardiff.ac.uk)
 
-
 ## Education
-### PhD - Astrophysics
-*Instability in the winds of hot stars: Theory and Simulation*
-1999-2004
-Cardiff University  
-
-### Master of Astrophysics
-*1st Class hons*  
-1995-1999  
-Cardiff University  
+**PhD - Astrophysics** *Instability in the winds of hot stars: Theory and Simulation* 1999-2004, Cardiff University  
+**Master of Astrophysics** *1st Class hons* 1995-1999, Cardiff University  
 
 
 ## Awards and Nominations
 - **Lise Meitner Medal** from [Institute of Physics](https://www.iop.org), in 2020. This Silver Subject medal is awarded for distinguished contributions to public engagement in physics. The [complete citation can be found on the IOP website](https://www.iop.org/about/awards/2020-lise-meitner-medal-and-prize)
 - **HundrED 2021 Global Collection** - Inclusion of [Global Sky Partners](https://lco.global/education/partners) in the [100 most inspiring innovations](http://hundred.org/) in education.
-- **Scientix Award** for Best Resources in Science, Technology, Mathematics and Engineering - [Star in a Box](http://starinabox.lco.global/) in 2015. This was a joint effort by many people, particularly myself, Stuart Lowe, Megan Davies, Chris North, and Jon Yardley. It was also awarded to [astroEDU](https://astroedu.iau.org) for improving the activity through peer-review.
+- **Scientix Award** for Best Resources in Science, Technology, Mathematics and Engineering - [Star in a Box](http://starinabox.lco.global/) in 2015. This was a joint effort by many people, particularly myself, Stuart Lowe, Megan Davies, Chris North, Jon Yardley and Haley Gomez. It was also awarded to [astroEDU](https://astroedu.iau.org) for improving the activity through peer-review.
 - **HundrED 2019 Global Collection** - Inclusion of [astroEDU](https://astroedu.iau.org) in the [100 most inspiring innovations](http://hundred.org/) in education.
 
 
 ## Selected Community Rôles
+- Vice-president of [IAU Division C for Education, Outreach and Heritage](https://www.iau.org/science/scientific_bodies/divisions/C/)
 - Founder of [Ada's Adventures in Science](http://www.adacomic.uk) comic book series
 - Director of [Global Sky Partners](https://lco.global/education/partners/), providing educational opportunities to use robotic telescopes, through Las Cumbres Observatory
 - Associate editor for [Frontiers for Young Minds](https://kids.frontiersin.org/)
 - Chair of the International Astronomical Union [Office for Astronomy Development](http://astro4dev.org) Task Force for children and schools.
 - Co-founder of [astroEDU](http://iau.org/astroedu), an open access, peer-review platform for reviewing and sharing astronomy education activities, endorsed by [International Astronomical Union](http://iau.org).
-- Education and Science Editor for [Space Scoop](http://spacescoop.org) (a [Universe Awareness](http://unawe.org) project), astronomy press-releases rewritten for children.
+- Education and Science Editor for [Space Scoop](http://spacescoop.org) (a [Universe Awareness](http://unawe.org) project), astronomy press-releases rewritten for children 2014-2019
 - Chair of National Astronomy Meeting (UK) education and outreach session organising committee 2014-15.
 - Local Organising Committee for [.Astronomy 8](http://dotastronomy.com) conference in Oxford, 2016.
 - Local Organising Committee for [National Astronomy Meeting](http://nam2016.org) conference in Nottingham, 2016.
@@ -45,6 +37,7 @@ Cardiff University
 
 ## Invited Talks
 
+- 2021 Oct - IAU Shaw Meeting, "Create better interactive apps"
 - 2017 Feb - Center for Astrophysics, Harvard University - Smithsonian Institute, "Las Cumbres Observatory"
 - 2014 Apr - Italian National Astronomy Meeting, Milan, "astroEDU: open access and peer-review for astronomy education".
 - 2014 Mar - Queen Mary College, London - "Las Cumbres Observatory: a robotic telescope network for education and science".
@@ -59,6 +52,7 @@ Cardiff University
 
 ## Selected Public Talks
 
+- 2021 Sept - Qatar National Library - "Las Cumbres Observatory"
 - 2020 Oct - Swansea Science Festival - "Only a Matter of time". An interview with comedian, David Baddiel and science of time travel talk.
 - 2020 Feb - Cardiff Science Festival - "Science of Time Travel"
 - 2020 Jan - Royal Astronomical Society, London - "Science of Time Travel"
@@ -90,7 +84,9 @@ Cardiff University
 - 2009 Sept - .Astronomy 1 - "Social media: An astronomers field guide"
 - 2009 Jan - International Year of Astronomy Cultural Heritage conference
 
-## Workshops Organized
+## Workshops and Conference Sessions Organized
+- 2021 Oct - IAU Shaw Meeting, "astroEDU: improving educational activities through peer-review" session
+- 2018 June - National Astronomy Meeting, "Art Space" session
 - 2016 June - National Astronomy Meeting Schools' Day organizer
 - 2016 June - National Astronomy Meeting outreach session chair
 - 2016 June - [.Astronomy 8](http://dotastronomy.com) - [Snakes &amp; Ponies: A Beginners guide to Django](http://www.zemogle.net/django-tutorial/)
@@ -108,6 +104,7 @@ Cardiff University
 - 2007 April - EU-Hands on Universe teacher international training conference
 
 ## Significant Grants
+- 2021 - presnet Gordon &amp; Betty Moore Foundation to support Global Sky Partners
 - 2020 - present Simons Foundation to support Global Sky Partners
 - 2014 - 2018 [Universe in the Classroom](http://universe.wales) (Co-founder) - National Science Academy, Welsh Government
 - 2014 - 2017 NEO follow-up (Co-I) - NASA, see [NEO exchange website](http://lco.global/neoexchange/) created by me for this project
@@ -119,6 +116,10 @@ Cardiff University
 *Lead developer and maintainer*  
 Web app for learning about the life cycle of stars. [2015 winner of Scientix Round 1 competition, category 2, Resources Award](http://www.iau.org/news/announcements/detail/ann14032/).
 
+### [Serol's Cosmic Explorers](http://serol.lco.global)
+*Creator and lead developer*  
+Web application for exploring astronomy through missions, challenges and using robotic telescopes.
+
 ### [Asteroid Tracker](http://asteroidtracker.lco.global)
 *Creator and lead developer*
 Web app to which triggers observations of asteroids (with [Las Cumbres Observatory](http://lco.global))) with a single click. Everyone's image get automatically combined into timelapses of the asteroids moving through space.
@@ -127,10 +128,6 @@ Web app to which triggers observations of asteroids (with [Las Cumbres Observato
 ### [Agent Exoplanet](http://lco.global/agentexoplanet)
 *Lead developer and maintainer*  
 An online LCO citizen science project for investigating the properties of transiting extra-solar planets.
-
-### [Serol's Cosmic Explorers](http://serol.lco.global)
-*Creator and lead developer*  
-Web application for exploring astronomy through missions, challenges and using robotic telescopes.
 
 More of my projects can be found on my [GitHub profile](https://github.com/zemogle/).
 
@@ -148,3 +145,4 @@ See [GitHub for my recent software projects](https://github.com/zemogle/)
 ## Web Frameworks
 - Django
 - Flask
+- VueJS
